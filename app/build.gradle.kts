@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.julitoelnoob.proyectofinal_myfit"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.julitoelnoob.proyectofinal_myfit"
         minSdk = 28
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
