@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">ProyectoFinal_Myfit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="login">Login</string>
+    <string name="user">User</string>
+    <string name="psw">Password</string>
+    <string name="login_button">Join</string>
 
 </resources>

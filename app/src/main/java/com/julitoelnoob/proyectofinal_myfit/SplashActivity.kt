@@ -12,7 +12,6 @@ class SplashActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash)
 
-        val splash = findViewById<ImageView>(R.id.imageView)
         val i = Intent(this, MainActivity::class.java)
 
         Handler(Looper.getMainLooper()).postDelayed({
