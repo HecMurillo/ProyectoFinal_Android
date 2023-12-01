@@ -6,4 +6,20 @@
     </style>
 
     <style name="Theme.ProyectoFinal_Myfit" parent="Base.Theme.ProyectoFinal_Myfit" />
+
+    <style name="cardTextTitle" parent="Theme.ProyectoFinal_Myfit">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="cardText" parent="Theme.ProyectoFinal_Myfit">
+        <item name="android:textColor">@color/darkgrey</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="cardTextSmall" parent="Theme.ProyectoFinal_Myfit">
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:textSize">12sp</item>
+    </style>
 </resources>

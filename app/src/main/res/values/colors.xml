@@ -7,4 +7,7 @@
     <color name="login">#810723</color>
     <color name="cardview">#FFFFFF</color>
 
+    <color name="darkgrey">#323232</color>
+    <color name="grey">#878787</color>
+
 </resources>
